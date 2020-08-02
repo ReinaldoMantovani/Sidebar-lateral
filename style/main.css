@@ -9,6 +9,9 @@ body {
     text-decoration: none;
 }
 
+
+
+
 .sidebar {
     position: fixed;
     left: -250px;
@@ -98,11 +101,13 @@ label #cancel {
     margin-left: 250px;
 
 }
-/*
+
+
+
 section {
     background: url(/images/motocross_4k-2560x1440.jpg) no-repeat;
     background-position: center;
     background-size: cover;
     height: 100vh;
     transition: all .4s;
-}*
+}
